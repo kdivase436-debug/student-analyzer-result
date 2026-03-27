@@ -9,7 +9,7 @@ This project calculates student marks and grade.
 - Show grade
 
 ## How to Run
-1. Open in Turbo C++ / VS Code
+1. Open in vs code.
 2. Compile the program
 3. Run the program
 4. Enter marks
@@ -22,7 +22,7 @@ Percentage = 80%
 Grade = A
 
 ## Technologies Used
-- C++
+- python
 
 ## Author
 Komal Divase

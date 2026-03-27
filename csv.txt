@@ -1,0 +1,7 @@
+
+student Result
+top student: Kiran
+Komal-Avg:58.67
+Riya-Avg:68.67
+Sachin-Avg:80.83
+Kiran-Avg:90.0
